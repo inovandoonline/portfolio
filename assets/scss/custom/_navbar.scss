@@ -150,7 +150,6 @@
             }
         }
         
-
         .dropdown-menu-inner {
             position: relative;
             padding: 1rem;
@@ -359,6 +358,5 @@
     to {
         opacity: 0;
         transform: translate(0, 10px);
-        //transform: translate(0, 10px) perspective(200px) rotateX(-2deg);
     } 
 }

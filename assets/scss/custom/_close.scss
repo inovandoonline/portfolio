@@ -20,7 +20,8 @@
     &:focus {
         background-color: $close-hover-bg;
         color: $close-hover-color;
-
+        outline: none;
+        
         span:not(.sr-only) {
             background-color: $close-hover-bg;
         }
